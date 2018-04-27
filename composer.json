@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "endroid/qrcode": "master",
+        "endroid/qrcode": "dev-master",
         "symfony/http-kernel": "~2.3",
         "sensio/framework-extra-bundle": "~3.0"
     },
